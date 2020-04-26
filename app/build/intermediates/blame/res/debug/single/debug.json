@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_primary.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\bg_btn_primary.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_auth.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_thin.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\font\\roboto_thin.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_medium.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\font\\quicksand_medium.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_google.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_google.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_utama.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\menu_utama.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hiking.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\hiking.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit_text.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\bg_edit_text.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_google.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-mdpi\\ic_google.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dds_moving_icon_with_trailing_line.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\activity_dds_moving_icon_with_trailing_line.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_forgot_pass.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\bg_forgot_pass.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pink_dot.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\pink_dot.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_google.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-hdpi\\ic_google.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_location_component.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\activity_location_component.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_google.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-ldpi\\ic_google.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg_blue.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\round_bg_blue.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_bar.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_google.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-xhdpi\\ic_google.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_google.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-xxhdpi\\ic_google.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_google.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\bg_btn_google.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round_bg_red.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-v24\\round_bg_red.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ANDROID\\Treking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\ANDROID\\Treking\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

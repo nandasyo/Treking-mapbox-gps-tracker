@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Treking</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoibmFuZGFzeW8iLCJhIjoiY2s3MWhoZ2dsMDNrNDNpcDFka3hzY20wbiJ9.D6YOuX3yYuaTFpMNN2fIWg</string>
+    <string name="user_location_permission_explanation" />
+    <string name="user_location_permission_not_granted" />
+</resources>

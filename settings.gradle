@@ -1,0 +1,2 @@
+rootProject.name='Treking'
+include ':app'

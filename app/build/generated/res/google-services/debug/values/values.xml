@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">62825324181-38dktm4q8bt1rq021qcireq8dhq5kvge.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://treking-effaf.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">62825324181</string>
+    <string name="google_api_key" translatable="false">AIzaSyD5S2yQ5ynxbb4l2Q0jsV_Jlo2-CoVfZmk</string>
+    <string name="google_app_id" translatable="false">1:62825324181:android:340a5e3254f6772cc6859c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD5S2yQ5ynxbb4l2Q0jsV_Jlo2-CoVfZmk</string>
+    <string name="google_storage_bucket" translatable="false">treking-effaf.appspot.com</string>
+    <string name="project_id" translatable="false">treking-effaf</string>
+</resources>

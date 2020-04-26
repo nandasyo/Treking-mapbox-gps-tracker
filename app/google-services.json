@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62825324181",
+    "firebase_url": "https://treking-effaf.firebaseio.com",
+    "project_id": "treking-effaf",
+    "storage_bucket": "treking-effaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62825324181:android:340a5e3254f6772cc6859c",
+        "android_client_info": {
+          "package_name": "com.kks.treking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62825324181-38dktm4q8bt1rq021qcireq8dhq5kvge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5S2yQ5ynxbb4l2Q0jsV_Jlo2-CoVfZmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62825324181-38dktm4q8bt1rq021qcireq8dhq5kvge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
